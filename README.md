@@ -6,6 +6,8 @@ This repo is for the EMNLP 2024 paper: [Interpreting Arithmetic Mechanism in Lar
 
 This work explores the mechanism of arithmetic tasks. This work introduces the comparable neuron analysis (CNA) method to identify the important neurons.
 
+This work uses the findings and insights in [this repo](https://github.com/zepingyu0512/neuron-attribution/tree/main) in [this EMNLP 2024 paper](https://arxiv.org/pdf/2312.12141)
+
 ## running code
 
 First, please use modeling_llama.py to replace the original file in the transformers path, which is usually in anaconda3/envs/YOUR_ENV_NAME/lib/python3.8/site-packages/transformers/models/llama. This modified file is useful for extracting the internal vectors during inference time. **Please remember to save the original file.** 
