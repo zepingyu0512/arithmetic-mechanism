@@ -12,7 +12,11 @@ This work uses the findings and insights in [this repo](https://github.com/zepin
 
 First, please use modeling_llama.py to replace the original file in the transformers path, which is usually in anaconda3/envs/YOUR_ENV_NAME/lib/python3.8/site-packages/transformers/models/llama. This modified file is useful for extracting the internal vectors during inference time. **Please remember to save the original file.** 
 
-Then, run the code in Llama_view_arithmetic.ipynb using jupyter notebook. This introduces how to identify and analyze the important heads/neurons in an arithmetic case.
+Then, run the code in Llama_view_arithmetic_head.ipynb and Llama_view_arithmetic_CNA.ipynb using jupyter notebook. This introduces how to identify and analyze the important heads/neurons in an arithmetic case.
+
+Llama_view_arithmetic_head.ipynb: identifying the important heads.
+
+Llama_view_arithmetic_CNA.ipynb: identifying the important neurons in deep FFN layers and shallow FFN layers.
 
 transformers version: 4.37.1
 
