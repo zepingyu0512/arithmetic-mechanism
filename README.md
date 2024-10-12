@@ -6,7 +6,7 @@ This repo is for the EMNLP 2024 paper: [Interpreting Arithmetic Mechanism in Lar
 
 This work explores the mechanism of arithmetic tasks. This work introduces the comparable neuron analysis (CNA) method to identify the important neurons.
 
-This work uses the findings and insights in [this repo](https://github.com/zepingyu0512/neuron-attribution/tree/main) in [this EMNLP 2024 paper](https://zepingyu0512.github.io/neuron-attribution.github.io/)
+This work also uses the findings and insights in [this repo](https://github.com/zepingyu0512/neuron-attribution/tree/main) in [this EMNLP 2024 paper](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
 ## running code
 
