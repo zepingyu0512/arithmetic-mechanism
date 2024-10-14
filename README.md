@@ -18,9 +18,7 @@ Llama_view_arithmetic_head.ipynb: identifying the important heads.
 
 Llama_view_arithmetic_CNA.ipynb: identifying the important neurons in deep FFN layers and shallow FFN layers.
 
-transformers version: 4.37.1
-
-torch version: 2.1.2+cu121
+environment versions: please see environment.yml
 
 ## cite us: 
 
