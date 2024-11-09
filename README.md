@@ -24,7 +24,7 @@ Llama_view_arithmetic_CNA.ipynb: identifying the important neurons in deep FFN l
 
 ```
 @article{yu2024interpreting,
-  title={Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis},
+  title={Interpreting arithmetic mechanism in large language models through comparative neuron analysis},
   author={Yu, Zeping and Ananiadou, Sophia},
   journal={arXiv preprint arXiv:2409.14144},
   year={2024}
